@@ -22,8 +22,11 @@ https://github.com/imkumar77/Sales-Performance-Dashboard/blob/main/Dashboard.png
 
 ## Insights
 1)Technology is the top-performing category in sales.
+
 2)Some states are experiencing losses, requiring further investigation.
+
 3)The treemap reveals key customers and profits, which can guide targeted strategies.
+
 4)The bar chart highlights specific subcategories that are driving or hindering overall sales growth.
 
 ## Key achievements
