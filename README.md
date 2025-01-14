@@ -31,8 +31,11 @@ https://github.com/imkumar77/Sales-Performance-Dashboard/blob/main/Dashboard.png
 
 ## Key achievements
 1 Enhanced Business Insights: The dashboard identifies top-performing categories (e.g., Technology) and highlights areas of concern, such as underperforming states and low-sales subcategories.
+
 2 Data-Driven Decisions: The insights empower the business to focus efforts on high-potential areas while addressing gaps in profitability and sales performance.
+
 3 Scalability: The dashboard can be easily adapted to incorporate additional data points or dimensions, ensuring its continued relevance as business needs evolve.
+
 4 Improved Efficiency: The consolidated view reduces the time required for manual analysis, allowing teams to focus on strategic actions.
 
 ## Project Conclusion
